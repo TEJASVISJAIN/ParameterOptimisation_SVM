@@ -12,3 +12,4 @@
 #Best Accuracy =  0.5 Best Kernel =  rbf Best Nu =  2.39 Best Epsilon =  3.69
 
 
+![alt text](download.png)
